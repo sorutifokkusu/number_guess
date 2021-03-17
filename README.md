@@ -1,2 +1,2 @@
-# number_guess
-A simple number guessing game.
+# Number Guess
+A simple number guessing game written in Python using the random module.
